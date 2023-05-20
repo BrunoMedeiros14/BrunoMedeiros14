@@ -31,7 +31,7 @@
 
 <span align="center">
 
-[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMedeiros14&theme=transparent&border_radius=4&title_color=ff001cff&text_color=ffffff&show_icons=true&icon_color=fdff00ff"/>](https://github.com/BrunoMedeiros14)
-[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMedeiros14&theme=transparent&title_color=ff001cff&text_color=ffffff&icon_color=fdff00ff&layout=compact&border_radius=4"/>](https://github.com/BrunoMedeiros14)
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMedeiros14&theme=transparent&border_radius=4&title_color=ff001cff&text_color=808080&show_icons=true&icon_color=afb100"/>](https://github.com/BrunoMedeiros14)
+[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMedeiros14&theme=transparent&title_color=ff001cff&text_color=808080&icon_color=afb100&layout=compact&border_radius=4"/>](https://github.com/BrunoMedeiros14)
 
 </span>
